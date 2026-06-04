@@ -7,7 +7,4 @@
 
 ## Trained Models
 
-* [Best Models (.keras)](https://drive.google.com/drive/folders/16qunOdKc46Cmhkd\_Y-QEjEw92D3o50D5?usp=sharing)
-
-
-
+* [Best Models (.keras)](https://drive.google.com/drive/folders/16qunOdKc46Cmhkd_Y-QEJEw92D3o50D5?usp=sharing)
