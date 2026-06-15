@@ -1,3 +1,10 @@
+## Group 13 Team Members:
+1. Puteri Nor Zhafirah (52213124927) - Data Engineer
+2. Sofea Balqis Binti  Mohd Bazir (52213124330) - Data Scientist
+3. Nur Ainna Afina Binti Hamzah (52215124331) - Data Analyst
+
+
+
 ## Dataset Access
 
 * [Raw Data](https://drive.google.com/drive/folders/1APmtc350gKtpT32mNpSp0NJ9O72k4Nsj?usp=sharing)
